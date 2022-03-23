@@ -110,7 +110,7 @@ public class Calculator {
 
     private static void printDescription() {
         System.out.println("Добро пожаловать в калькулятор!");
-        System.out.println("Калькулятор умеет выполнять операции '+, -, *, /' для целых чисел и чисел с плавающей запятой.");
+        System.out.println("Калькулятор умеет выполнять операции '+, -, *, /, ^' для целых чисел и чисел с плавающей запятой.");
         System.out.println("Для сброса нажмите символ С, для выхода S.");
         System.out.println();
     }
